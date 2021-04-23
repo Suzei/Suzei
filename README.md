@@ -1,7 +1,12 @@
-### Hi there 👋
+
 
 <!--
+### Hi there
+
 **Suzei/Suzei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+# Vinícius Silva
+<p> Hello and welcome to my github! Here you'll find a whole projects to look and take a reference. 
 
 Here are some ideas to get you started:
 
