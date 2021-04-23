@@ -1,6 +1,7 @@
+
 <h1 align="center">'Sup! My name is Vinícius</h1>
 <h3 align="center">Hello and welcome to my github! Here you'll find a bunch of projects to look and take a reference on your studies so: feel free to use it!</h3>
-
+<img src="https://ibb.co/mDH2Nd0"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/suzeitosleep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="suzeitosleep" height="30" width="40" /></a>
