@@ -1,11 +1,11 @@
-<img src="https://github.com/Suzei/Suzei/blob/main/GITHUB%20HEADER.png"/>
+<img align="center" src="https://github.com/Suzei/Suzei/blob/main/GITHUB%20HEADER.png"/>
 <h3 align="center">Eu sou o Suzei!</h3>
 <p align= "center">Meu nome é Vinícius, mas você pode me chamar de Suzei. Sou dev front-end e estudante em CCO. Estou sempre disponível para tirar dúvidas ou fazer jobs!</p>
 
 <div>
   <a href="https://github.com/Suzei">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suzei&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suzei&layout=compact&langs_count=7&theme=darcula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suzei&layout=compact&langs_count=7&theme=darcula"/>
 </div>
 
   <div style="display: inline_block"align="center"><br>
