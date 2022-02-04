@@ -1,6 +1,6 @@
 <img align="center" src="https://github.com/Suzei/Suzei/blob/main/GITHUB%20HEADER.png"/>
-<h3 align="center">Eu sou o Suzei!</h3>
-<p align= "center">Meu nome é Vinícius, mas você pode me chamar de Suzei. Sou dev front-end e estudante em CCO. Estou sempre disponível para tirar dúvidas ou fazer jobs!</p>
+<h3 align="center">Desenvolvedor Front-End Jr</h3>
+<h6 align= "center">Meu nome é Vinícius e sou desenvolvedor front-end há 2 anos. Estou sempre disponível para tirar dúvidas e conversar sobre algum projeto!</h6>
 
 <div>
   <a href="https://github.com/Suzei">
@@ -12,6 +12,13 @@
   <img align="center" alt="Suzei-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Suzei-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Suzei-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Suzei-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+      <img align="center" alt="Suzei-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+      <img align="center" alt="Suzei-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
+        <img align="center" alt="Suzei-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg">
+
+
+  <img align="center" alt="Suzei-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
   <img align="center" alt="Suzei-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Suzei-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Suzei-CSS" height="40" width="40" src="https://img.icons8.com/color/452/sass.png">
