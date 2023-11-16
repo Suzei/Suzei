@@ -1,7 +1,7 @@
 <img align="center" src="https://github.com/Suzei/Suzei/blob/main/GITHUB%20HEADER.png"/>
-<h3 align="center">Desenvolvedor Front-End Jr</h3>
-<h6 align= "center">Vinícius</h6>
-<h6 align= "center">Desenvolvedor Front-End</h6>
+<div>
+  <h5 align= "center">Desenvolvedor Front-End <br /> Há 3 anos no mercado, procuro expandir o time que integro com soluções criativas e acessíveis!</h5>
+</div>
 
 <div>
   <div style="display: inline_block"align="center"><br>
