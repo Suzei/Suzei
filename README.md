@@ -1,6 +1,7 @@
 <img align="center" src="https://github.com/Suzei/Suzei/blob/main/GITHUB%20HEADER.png"/>
 <h3 align="center">Desenvolvedor Front-End Jr</h3>
-<h6 align= "center">Meu nome é Vinícius e sou desenvolvedor front-end há 2 anos. Estou sempre disponível para tirar dúvidas e conversar sobre algum projeto!</h6>
+<h6 align= "center">Vinícius</h6>
+<h6 align= "center">Desenvolvedor Front-End</h6>
 
 <div>
   <div style="display: inline_block"align="center"><br>
