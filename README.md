@@ -1,6 +1,6 @@
 <img align="center" src="https://github.com/Suzei/Suzei/blob/main/GITHUB%20HEADER.png"/>
 <div>
-  <h5 align= "center">Desenvolvedor Front-End <br /> Há 3 anos no mercado, procuro expandir o time que integro com soluções criativas e acessíveis!</h5>
+  <h5 align= "center">Desenvolvedor Front-End <br /> Há 4 anos no mercado, procuro expandir o time que integro com soluções criativas e acessíveis!</h5>
 </div>
 
 <div>
